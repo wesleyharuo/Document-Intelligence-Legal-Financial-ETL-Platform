@@ -1,4 +1,6 @@
 # Document-Intelligence-Legal-Financial-ETL-Platform
+<img width="2880" height="4614" alt="Tenant Lifecycle Command Center@2x" src="https://github.com/user-attachments/assets/8187ffc9-1629-447c-b5b9-632269371ba8" />
+
 Project Overview
 Development of an automated ingestion and processing engine designed for unstructured financial and legal documents, including invoices, receipts, and reports. The solution eliminates manual bottlenecks in data extraction, ensuring accounting compliance and accelerating financial closing cycles.
 
